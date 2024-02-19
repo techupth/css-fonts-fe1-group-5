@@ -1,1 +1,6 @@
 /* Start coding here */
+h1,p{
+    font-family: 'Kodchasan', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
